@@ -27,3 +27,8 @@ m "I'll make sure to remember that, [player]!"
 m "Okay..."
 m "[countername]: [number] [days]."
 m "Hope that helped, [player]!"
+
+#inside list of counters:
+"I want to delete a counter."
+m "Which counter do you want to delete?"
+#show list (like the bookmark list)
